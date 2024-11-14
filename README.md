@@ -34,4 +34,4 @@ Most projects here are:
 If you're looking for my professional work and serious projects, please check out my other repositories. This one is just for fun! 
 
 ---
-*Remember: Perfect is the enemy of good. Sometimes you just need to play around and have fun with code!* 🎈
+*Remember: I believe perfection is the enemy of learning, sometimes you just need to play around and have fun with code!* 🎈
