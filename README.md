@@ -1,3 +1,7 @@
+## 📝 Note to Visitors
+
+If you're looking for my professional work and serious projects, please check out my other repositories. This one is just for fun!
+
 # 🎮 Mini Practice Projects
 
 Welcome to my playground! This repository is a collection of small projects I've created for learning, experimentation, and personal skill development.
@@ -28,10 +32,6 @@ Most projects here are:
 - Might contain bugs
 - Could be poorly optimized
 - Might lack proper documentation
-
-## 📝 Note to Visitors
-
-If you're looking for my professional work and serious projects, please check out my other repositories. This one is just for fun! 
 
 ---
 *Remember: I believe perfection is the enemy of learning, sometimes you just need to play around and have fun with code!* 🎈
