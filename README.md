@@ -6,14 +6,6 @@ If you're looking for my professional work and serious projects, please check ou
 
 Welcome to my playground! This repository is a collection of small projects I've created for learning, experimentation, and personal skill development.
 
-## ⚠️ Important Note
-
-These projects are **NOT** meant to showcase my professional work or capabilities. They are purely:
-- Practice exercises
-- Learning experiments
-- Coding playground activities
-- Quick implementations of random ideas
-- Fun little projects to try new things
 
 ## 🎯 Purpose
 
